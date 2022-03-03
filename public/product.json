@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "type": "AirPods Apple Fones de Ouvido",        
+        "price": 1499,
+        "portion": "124,92",
+        "inCash": "1.349",
+        "img": "./images/produto-01.jpeg"
+      },
+      {
+        "type": "Capa de Silicone para Iphone 8/7 cor Areia - rosa",        
+        "price": 299,
+        "portion": "24,92",
+        "inCash": "269,10",
+        "img": "./images/produto-02.jpeg"
+      },
+      {
+        "type": "Apple Pencil",        
+        "price": 729,
+        "portion": "60,75",
+        "inCash": "656,10",
+        "img": "./images/produto-03.jpeg"
+      },
+      {
+        "type": "Magic Mouse 2 - Prateado",        
+        "price": 549,
+        "portion": "45,75",
+        "inCash": "494,10",
+        "img": "./images/produto-04.jpeg"
+      },
+      {
+        "type": "Caixa prateada de alumínio com pulseira esportiva branca",        
+        "price": 2899,
+        "portion": "241,58",
+        "inCash": "2.609,10",
+        "img": "./images/produto-05.jpeg"
+      },
+      {
+        "type": "Cabo de lightning para USB (1m)",        
+        "price": 149,
+        "portion": "12,42",
+        "inCash": "134,10",
+        "img": "./images/produto-06.jpeg"
+      },
+      {
+        "type": "Smart Keyboard para iPad Pro 12,9 polegadas - Inglês (EUA)",        
+        "price": 1099,
+        "portion": "91,58",
+        "inCash": "989,10",
+        "img": "./images/produto-07.jpeg"
+      },
+      {
+        "type": "Carregador USB de 5W Apple",        
+        "price": 149,
+        "portion": "12,42",
+        "inCash": "134,10",
+        "img": "./images/produto-08.jpeg"
+      }      
+    ]
+  }
